@@ -1,0 +1,6 @@
+{
+  "name": "Scribbly Notes - Handwritten Notebook Generator",
+  "description": "Convert typed text into realistic, natural-looking handwritten notebook pages with custom paper styles, inks, and PDF/image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
